@@ -1,10 +1,16 @@
 _repo: Chronicles-of-London-Bridge_47475
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47475-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, Richard
     gutenberg_agent_id: '44335'
     url: http://www.gutenberg.org/2009/agents/44335
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47475#Chronicles-of-London-Bridge
 gutenberg_issued: '2014-11-27'
 gutenberg_type: Text
 identifiers:
